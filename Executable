@@ -1,0 +1,11 @@
+#! /bin/bash
+
+echo "Hallooo"
+
+sleep 2
+
+echo "This is a test to see if I can Execute this in windows"
+
+sleep 3
+
+echo "That's all thank you"
